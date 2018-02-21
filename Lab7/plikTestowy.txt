@@ -1,0 +1,10 @@
+jeden      dwa
+trzy trzy
+cztery     piec   szesc     siedem
+//osiem     dziewiec
+dziesiec
+//jedenascie
+trzy
+dwanascie
+trzy
+trzy
